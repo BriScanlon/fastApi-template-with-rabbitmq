@@ -68,7 +68,7 @@ QUEUE_NAME=my_queue
 
 ```bash
 git clone https://github.com/BriScanlon/fastApi-template-with-rabbitmq.git
-cd your-repo
+cd fastApi-template-with-rabbitmq
 ```
 
 ### 2. Set Up the `.env` File
