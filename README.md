@@ -67,7 +67,7 @@ QUEUE_NAME=my_queue
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo-url.git
+git clone https://github.com/BriScanlon/fastApi-template-with-rabbitmq.git
 cd your-repo
 ```
 
